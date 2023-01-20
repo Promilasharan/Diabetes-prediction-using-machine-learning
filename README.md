@@ -1,7 +1,8 @@
-# Diabetes-prediction-using-machine-learning
-Diabetes Prediction Using Machine Learning
+# Diabetes Prediction Using Machine Learning
 
 Introduction
+image.png
+
 
 Diabetes mellitus is chronic disease characterised by high blood sugar that further leads to many health complications. With the rapid development of machine learning, its various algorithms & analysis tools can be applied on the vast amount of data collected in hospitals for providing solution to healthcare issues. The main objective of this study was to to predict whether a person has diabetes or not based on various factors such as age, blood pressure, and BMI. The model uses Python and machine learning techniques to make predictions.
 Dependencies
@@ -36,6 +37,7 @@ jupyter notebook ML pipeline on MICE Imputed dataset.ipynb
 jupyter notebook ML pipeline on simple Imputed (Median).ipynb
 Data
 The dataset used in this project is the Pima Indians Diabetes Database, which can be found at https://www.kaggle.com/uciml/pima-indians-diabetes-database. New datasets (as shown below) were also generated & utilised for ML model applications & hence for prediction.
+image.png
 
 Design of Experiments, Results And Analysis:
 - 1). Dataset description 
